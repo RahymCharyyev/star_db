@@ -1,2 +1,1 @@
-Applicaton that works with SWAPI.API
-For use, please turn on vpn before using.
+Application based on Swapi Api, about heroes, planets and starships from StarWars. For use, it is recommended to use the VPN service. I create this app from the Udemy course of Juriy Bura, React + Redux - Professional Development
